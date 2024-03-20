@@ -130,7 +130,7 @@ settings before. Like a FirstName, LastName and etc ..
 
 -- 
 
-The request body of this requisitions is similar to each other, the schema to send a post method is 
+The request body of this requisitions is similar pto each other, the schema to send a post method is 
 equal to every request, getting the url to send, tell on the header is content type is text/xml, 
 send a SOAPAction empty and after it, write the request using XML and send it.
 
